@@ -2,11 +2,18 @@
 
 Welcome to the SpaceONE community!
 
+- [Release Notes](#Release-Notes)
 - [Community Map](#Community-Map)
 - [Membership](#Membership)
 - [User Guides](#User-Guides)
 - [Developer Guides](#Developer-Guides)
 - [Communication](#Communication)
+
+## Release Notes
+
+* [20.06 Release Notes](docs/release_notes/Release_Note_20.06.md)
+* [20.05 Release Notes(Korean)](docs/release_notes/Release_Note_20.05_kr.md)
+
 
 ## Community Map
 There are lots of starting points for joining and contributing to the SpaceONE community - improving docs, improving code, giving talks etc.
